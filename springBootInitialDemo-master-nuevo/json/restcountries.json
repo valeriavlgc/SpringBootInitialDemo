@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "d4dd25b9-1ea5-4ec7-bb80-fa039a4b2fd5",
+		"name": "restcountries.json",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
